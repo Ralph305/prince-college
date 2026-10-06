@@ -1,0 +1,148 @@
+{
+  "gcse": [
+    {
+      "grade": "9",
+      "oldLetter": "A* (Top)",
+      "description": "Exceptional performance reserved for the top 20% of Grade 7+ candidates nationally.",
+      "ucasEquivalent": "N/A (Secondary)",
+      "benchmark": "Distinction Level"
+    },
+    {
+      "grade": "8",
+      "oldLetter": "A*",
+      "description": "Outstanding knowledge, detailed critical understanding, and comprehensive analytical skills.",
+      "ucasEquivalent": "N/A",
+      "benchmark": "Outstanding Pass"
+    },
+    {
+      "grade": "7",
+      "oldLetter": "A",
+      "description": "High achievement, demonstrating thorough comprehension and adept problem solving.",
+      "ucasEquivalent": "N/A",
+      "benchmark": "Excellent Pass (A-Level Entry standard)"
+    },
+    {
+      "grade": "6",
+      "oldLetter": "B (High)",
+      "description": "Good understanding above national average with strong application of principles.",
+      "ucasEquivalent": "N/A",
+      "benchmark": "Solid Pass"
+    },
+    {
+      "grade": "5",
+      "oldLetter": "B / C (High)",
+      "description": "Government-defined 'Strong Pass'. Aligned with international benchmarking standards.",
+      "ucasEquivalent": "N/A",
+      "benchmark": "Strong Pass (UK Benchmark)"
+    },
+    {
+      "grade": "4",
+      "oldLetter": "C",
+      "description": "Government-defined 'Standard Pass'. Minimum requirement for vocational/sixth form progression.",
+      "ucasEquivalent": "N/A",
+      "benchmark": "Standard Pass (Minimum for Level 3)"
+    },
+    {
+      "grade": "3 - 1",
+      "oldLetter": "D - G",
+      "description": "Developing mastery; basic recall and application under supervision.",
+      "ucasEquivalent": "N/A",
+      "benchmark": "Requires Retake (Maths / Eng)"
+    },
+    {
+      "grade": "U",
+      "oldLetter": "U",
+      "description": "Ungraded - did not meet the minimum assessment threshold.",
+      "ucasEquivalent": "0",
+      "benchmark": "Ungraded"
+    }
+  ],
+  "aLevel": [
+    {
+      "grade": "A*",
+      "ucasPoints": 56,
+      "percentageBenchmark": "Top tier (90%+ at A2)",
+      "description": "Exceptional mastery, synoptic originality, and rigorous analytical argumentation.",
+      "typicalOffer": "Oxbridge, Imperial, LSE, UCL competitive programs"
+    },
+    {
+      "grade": "A",
+      "ucasPoints": 48,
+      "percentageBenchmark": "80%+",
+      "description": "Deep understanding, comprehensive knowledge, and precise technical accuracy.",
+      "typicalOffer": "Russell Group standard entry (Durham, Bristol, Warwick)"
+    },
+    {
+      "grade": "B",
+      "ucasPoints": 40,
+      "percentageBenchmark": "70%+",
+      "description": "Good grasp of syllabus concepts, sound reasoning, and coherent structure.",
+      "typicalOffer": "Top 30 UK Universities / High-tariff courses"
+    },
+    {
+      "grade": "C",
+      "ucasPoints": 32,
+      "percentageBenchmark": "60%+",
+      "description": "Competent performance with satisfactory recall and standard problem solving.",
+      "typicalOffer": "Solid university entry baseline across mainstream degrees"
+    },
+    {
+      "grade": "D",
+      "ucasPoints": 24,
+      "percentageBenchmark": "50%+",
+      "description": "Adequate knowledge with some inconsistencies in complex scenarios.",
+      "typicalOffer": "Foundation degree / Widening participation pathways"
+    },
+    {
+      "grade": "E",
+      "ucasPoints": 16,
+      "percentageBenchmark": "40% (Pass mark)",
+      "description": "Minimum passing threshold for official A-Level certificate.",
+      "typicalOffer": "Pass credit for university admission"
+    },
+    {
+      "grade": "U",
+      "ucasPoints": 0,
+      "percentageBenchmark": "< 40%",
+      "description": "Ungraded / Fail.",
+      "typicalOffer": "No qualification awarded"
+    }
+  ],
+  "btec": [
+    {
+      "grade": "Distinction* (D*)",
+      "singleUcas": 56,
+      "extendedDiplomaUcas": 168,
+      "aLevelEquivalent": "A* (A*A*A* for Triple)",
+      "description": "Exemplary professional standard demonstrating independent research and innovative execution."
+    },
+    {
+      "grade": "Distinction (D)",
+      "singleUcas": 48,
+      "extendedDiplomaUcas": 144,
+      "aLevelEquivalent": "A (AAA for Triple)",
+      "description": "Thorough practical proficiency, rigorous project execution, and sophisticated evaluation."
+    },
+    {
+      "grade": "Merit (M)",
+      "singleUcas": 32,
+      "extendedDiplomaUcas": 96,
+      "aLevelEquivalent": "C (CCC for Triple)",
+      "description": "Competent workplace-standard delivery showing solid technical knowledge and consistent documentation."
+    },
+    {
+      "grade": "Pass (P)",
+      "singleUcas": 16,
+      "extendedDiplomaUcas": 48,
+      "aLevelEquivalent": "E (EEE for Triple)",
+      "description": "Meets all mandatory learning aims and assessment criteria across core units."
+    },
+    {
+      "grade": "U",
+      "singleUcas": 0,
+      "extendedDiplomaUcas": 0,
+      "aLevelEquivalent": "Unclassified",
+      "description": "Did not meet pass criteria for one or more core units."
+    }
+  ]
+}

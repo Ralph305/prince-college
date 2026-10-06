@@ -1,0 +1,408 @@
+[
+  {
+    "id": "chem-a-level",
+    "slug": "a-level-chemistry",
+    "title": "A-Level Chemistry",
+    "department": "Sciences",
+    "level": "A-Level",
+    "yearGroup": "Year 12-13 (Sixth Form)",
+    "duration": "2 Years (Full-Time)",
+    "examBoard": "AQA (7405)",
+    "gradingScale": "A* - E",
+    "entryRequirements": "Minimum Grade 7 in GCSE Chemistry (or 7-7 in Combined Science) plus Grade 6 in GCSE Mathematics and Grade 5 in English Language.",
+    "description": "A-Level Chemistry delves into the fundamental building blocks of the physical universe. Students study physical chemistry, inorganic periodicity, and organic synthesis, supported by over 100 hours of university-standard laboratory practical work in our modern laboratories.",
+    "teacher": {
+      "name": "Dr. Alistair Finch",
+      "role": "Head of Chemistry",
+      "credentials": "PhD in Chemical Biology (Imperial College London), FRSC"
+    },
+    "fees": "Fully Funded (UK 16-19) / £9,850 per annum (International)",
+    "assessmentMethod": "Three terminal written examinations (2 hours each) at the end of Year 13, plus practical endorsement certificate.",
+    "keyTopics": [
+      "Thermodynamics & Kinetics",
+      "Transition Metal Chemistry",
+      "Organic Synthesis & Spectroscopic Identification",
+      "Equilibrium Constants & Redox Potentials"
+    ],
+    "careerPaths": ["Medicine", "Chemical Engineering", "Pharmacy", "Biochemistry", "Veterinary Medicine"],
+    "featured": true,
+    "badgeColor": "emerald"
+  },
+  {
+    "id": "phys-a-level",
+    "slug": "a-level-physics",
+    "title": "A-Level Physics",
+    "department": "Sciences",
+    "level": "A-Level",
+    "yearGroup": "Year 12-13 (Sixth Form)",
+    "duration": "2 Years (Full-Time)",
+    "examBoard": "OCR Physics A (H556)",
+    "gradingScale": "A* - E",
+    "entryRequirements": "Minimum Grade 7 in GCSE Physics (or 7-7 Combined) and Grade 7 in GCSE Mathematics. Concurrent study of A-Level Mathematics strongly recommended.",
+    "description": "From subatomic particle physics to cosmic astrophysics, A-Level Physics explores nature's deepest governing laws. Students develop advanced mathematical modelling and laboratory investigative skills using digital oscilloscopes, laser interferometers, and computerized sensors.",
+    "teacher": {
+      "name": "Dr. Sarah Thornton",
+      "role": "Head of Physics",
+      "credentials": "MPhys, DPhil Astrophysics (University of Oxford)"
+    },
+    "fees": "Fully Funded (UK 16-19) / £9,850 per annum (International)",
+    "assessmentMethod": "Three written exam papers (Modelling Physics, Exploring Physics, Unified Physics) plus Practical Endorsement.",
+    "keyTopics": [
+      "Newtonian Mechanics & Gravitational Fields",
+      "Quantum Phenomena & Photons",
+      "Electromagnetic Induction & Capacitance",
+      "Nuclear Physics & Medical Imaging"
+    ],
+    "careerPaths": ["Mechanical & Aerospace Engineering", "Data Science", "Theoretical Physics", "Finance & Quantitative Analysis"],
+    "featured": true,
+    "badgeColor": "cyan"
+  },
+  {
+    "id": "bio-gcse",
+    "slug": "gcse-biology",
+    "title": "GCSE Biology (Higher Tier)",
+    "department": "Sciences",
+    "level": "GCSE",
+    "yearGroup": "Year 10-11",
+    "duration": "2 Years",
+    "examBoard": "Edexcel (1BI0)",
+    "gradingScale": "9 - 1 (GCSE Standard)",
+    "entryRequirements": "Satisfactory completion of Key Stage 3 Science with strong aptitude in scientific inquiry and mathematics.",
+    "description": "GCSE Biology delivers an engaging journey into living organisms, covering cell biology, human physiology, genetics, biotechnology, and ecosystem dynamics with intensive microscopy and ecological field work.",
+    "teacher": {
+      "name": "Mrs. Claire Sterling",
+      "role": "Senior Lecturer in Biological Sciences",
+      "credentials": "BSc (Hons) Biological Sciences (UCL), PGCE"
+    },
+    "fees": "Fully Funded (UK 14-16) / £8,200 per annum (International)",
+    "assessmentMethod": "Two 1 hour 45 minute written papers covering core theory and required practical techniques.",
+    "keyTopics": [
+      "Cell Structure & Transport Systems",
+      "Genetics, Inheritance & Gene Technology",
+      "Human Homeostasis & Hormonal Control",
+      "Ecology, Biodiversity & Human Influences"
+    ],
+    "careerPaths": ["A-Level Biology & Chemistry", "Biomedical Sciences", "Environmental Science", "Nursing & Healthcare"],
+    "featured": false,
+    "badgeColor": "green"
+  },
+  {
+    "id": "math-a-level",
+    "slug": "a-level-mathematics",
+    "title": "A-Level Mathematics",
+    "department": "Mathematics",
+    "level": "A-Level",
+    "yearGroup": "Year 12-13 (Sixth Form)",
+    "duration": "2 Years (Full-Time)",
+    "examBoard": "Edexcel (9MA0)",
+    "gradingScale": "A* - E",
+    "entryRequirements": "Minimum Grade 7 in GCSE Mathematics. An entrance diagnostic test is conducted during induction.",
+    "description": "Considered the gold standard for university readiness, A-Level Mathematics combines pure mathematical rigor (calculus, trigonometry, algebra) with applied mechanics and real-world statistics data interpretation.",
+    "teacher": {
+      "name": "Mr. David Pembroke",
+      "role": "Director of Mathematics",
+      "credentials": "MA Mathematics (University of Cambridge, First Class)"
+    },
+    "fees": "Fully Funded (UK 16-19) / £9,500 per annum (International)",
+    "assessmentMethod": "Three 2-hour written exam papers: Pure Mathematics 1, Pure Mathematics 2, and Applied Statistics & Mechanics.",
+    "keyTopics": [
+      "Differentiation, Integration & Differential Equations",
+      "Trigonometric Functions & Proofs",
+      "Statistical Hypothesis Testing & Large Data Sets",
+      "Kinematics & Newton's Laws of Motion"
+    ],
+    "careerPaths": ["Mathematics", "Economics", "Computer Science", "Engineering", "Actuarial Science"],
+    "featured": true,
+    "badgeColor": "blue"
+  },
+  {
+    "id": "further-math-a-level",
+    "slug": "a-level-further-mathematics",
+    "title": "A-Level Further Mathematics",
+    "department": "Mathematics",
+    "level": "A-Level",
+    "yearGroup": "Year 12-13 (Sixth Form)",
+    "duration": "2 Years (Taken alongside A-Level Maths)",
+    "examBoard": "Edexcel (9FM0)",
+    "gradingScale": "A* - E",
+    "entryRequirements": "Minimum Grade 8 (ideally 9) in GCSE Mathematics.",
+    "description": "An intensive, elite course designed for aspiring mathematicians, computer scientists, and engineers. Covers advanced pure mathematics including complex numbers, matrices, hyperbolic functions, and polar coordinates.",
+    "teacher": {
+      "name": "Dr. Marcus Vance-Reid",
+      "role": "Senior Fellow in Pure Mathematics",
+      "credentials": "PhD in Pure Mathematics (Warwick University)"
+    },
+    "fees": "Fully Funded (UK 16-19) / £9,500 per annum (International)",
+    "assessmentMethod": "Four 90-minute papers: Core Pure 1, Core Pure 2, Further Pure 1, and Further Mechanics 1.",
+    "keyTopics": [
+      "Complex Numbers & De Moivre's Theorem",
+      "Linear Algebra & Matrix Transformations",
+      "Differential Equations of Higher Order",
+      "Circular Motion, Work, Energy & Momentum"
+    ],
+    "careerPaths": ["Cambridge STEP / Oxford MAT pathways", "Theoretical Physics", "Artificial Intelligence", "Cryptography"],
+    "featured": false,
+    "badgeColor": "indigo"
+  },
+  {
+    "id": "cs-a-level",
+    "slug": "a-level-computer-science",
+    "title": "A-Level Computer Science",
+    "department": "Technology",
+    "level": "A-Level",
+    "yearGroup": "Year 12-13 (Sixth Form)",
+    "duration": "2 Years (Full-Time)",
+    "examBoard": "OCR (H446)",
+    "gradingScale": "A* - E",
+    "entryRequirements": "Minimum Grade 6 in GCSE Mathematics and Grade 6 in GCSE Computer Science (or demonstrated coding portfolio in Python/Java).",
+    "description": "Prepares students for modern software engineering and computational research. Covers computer systems, processor architecture, computational algorithms, complexity theory, and a significant independent non-exam software project.",
+    "teacher": {
+      "name": "Ms. Priya Patel",
+      "role": "Head of Computing & AI Labs",
+      "credentials": "MSc Software Engineering (UCL), BEng Computer Science"
+    },
+    "fees": "Fully Funded (UK 16-19) / £9,850 per annum (International)",
+    "assessmentMethod": "Paper 1 (40%), Paper 2 (40%), and an independently coded NEA Programming Project (20%).",
+    "keyTopics": [
+      "Processor Architecture & Operating Systems",
+      "Data Structures, Trees, Graphs & Hash Tables",
+      "Big O Algorithmic Efficiency & Sorting",
+      "Full-Stack Software Architecture Project"
+    ],
+    "careerPaths": ["Software Engineering", "Cybersecurity", "Data Architecture", "Machine Learning Specialist"],
+    "featured": true,
+    "badgeColor": "violet"
+  },
+  {
+    "id": "it-btec",
+    "slug": "btec-national-extended-diploma-information-technology",
+    "title": "BTEC National Extended Diploma in Information Technology",
+    "department": "Technology",
+    "level": "BTEC",
+    "yearGroup": "Year 12-13",
+    "duration": "2 Years (Equivalent to 3 A-Levels)",
+    "examBoard": "Pearson BTEC Level 3 National (RQF)",
+    "gradingScale": "Pass, Merit, Distinction, Distinction*",
+    "entryRequirements": "5 GCSEs at grade 4 or above, including GCSE English Language and Mathematics.",
+    "description": "A comprehensive vocational qualification offering practical mastery in relational database design, cloud computing, cybersecurity architecture, website development, and IT systems project management.",
+    "teacher": {
+      "name": "Mr. Samuel O'Connor",
+      "role": "Lead Vocational Instructor in IT",
+      "credentials": "BSc Information Systems (King's College London), CISSP"
+    },
+    "fees": "Fully Funded (UK 16-19) / £9,200 per annum (International)",
+    "assessmentMethod": "Mix of externally marked exams, controlled computer assessments, and internally verified portfolio assignments.",
+    "keyTopics": [
+      "Information Technology Systems & Strategy",
+      "Relational Database Development with SQL",
+      "Cybersecurity Incident Management",
+      "Cloud Architecture & Web App Development"
+    ],
+    "careerPaths": ["BSc Computing Degree", "Digital Technology Apprenticeship", "Systems Analyst", "Network Engineer"],
+    "featured": false,
+    "badgeColor": "purple"
+  },
+  {
+    "id": "hist-a-level",
+    "slug": "a-level-history",
+    "title": "A-Level History",
+    "department": "Humanities",
+    "level": "A-Level",
+    "yearGroup": "Year 12-13 (Sixth Form)",
+    "duration": "2 Years (Full-Time)",
+    "examBoard": "AQA (7042)",
+    "gradingScale": "A* - E",
+    "entryRequirements": "Minimum Grade 6 in GCSE History and Grade 6 in GCSE English Language or Literature.",
+    "description": "Cultivates analytical precision, critical documentary analysis, and persuasive argumentation through deep explorations of the British Stuart Monarchy and 20th-century Russian Revolution to Cold War.",
+    "teacher": {
+      "name": "Dr. Helena Montgomery",
+      "role": "Head of Humanities",
+      "credentials": "MA, PhD History (LSE), Fellow of the Historical Association"
+    },
+    "fees": "Fully Funded (UK 16-19) / £9,500 per annum (International)",
+    "assessmentMethod": "Two 2.5-hour written papers (80% total) and an independently researched 4,500-word historical investigation (20%).",
+    "keyTopics": [
+      "The Tudors & Stuarts: Crown, Government & Crisis",
+      "Revolution and Dictatorship: Russia, 1917–1953",
+      "Civil Rights & Post-War International Relations",
+      "Historiographical Critique & Primary Source Analysis"
+    ],
+    "careerPaths": ["Law", "International Relations", "Civil Service & Policy", "Journalism", "Heritage & Curatorial Leadership"],
+    "featured": true,
+    "badgeColor": "amber"
+  },
+  {
+    "id": "econ-a-level",
+    "slug": "a-level-economics",
+    "title": "A-Level Economics",
+    "department": "Business",
+    "level": "A-Level",
+    "yearGroup": "Year 12-13 (Sixth Form)",
+    "duration": "2 Years (Full-Time)",
+    "examBoard": "Edexcel Economics A (9EC0)",
+    "gradingScale": "A* - E",
+    "entryRequirements": "Minimum Grade 6 in GCSE Mathematics and Grade 6 in GCSE English Language.",
+    "description": "Examines how societies allocate scarce resources, the functioning of competitive markets, market failure interventions, and macroeconomic policy across inflation, fiscal stimulus, exchange rates, and international trade.",
+    "teacher": {
+      "name": "Mr. Jonathan Hayes",
+      "role": "Head of Economics & Finance",
+      "credentials": "MSc Financial Economics (LSE), Chartered Financial Analyst (CFA)"
+    },
+    "fees": "Fully Funded (UK 16-19) / £9,500 per annum (International)",
+    "assessmentMethod": "Three 2-hour papers: Markets and Business Behaviour, The National and Global Economy, and Micro & Macro Synoptic.",
+    "keyTopics": [
+      "Market Mechanisms, Price Elasticity & Market Failure",
+      "Monopoly, Oligopoly & Contestability",
+      "Monetary and Fiscal Policies & Bank of England Actions",
+      "Emerging Markets, Global Trade & Financial Systems"
+    ],
+    "careerPaths": ["BSc Economics (Russell Group / Ivy League)", "Investment Banking", "Management Consulting", "Policy Analysis"],
+    "featured": true,
+    "badgeColor": "yellow"
+  },
+  {
+    "id": "bus-btec",
+    "slug": "btec-level-3-national-extended-certificate-in-business",
+    "title": "BTEC Level 3 National Extended Certificate in Business",
+    "department": "Business",
+    "level": "BTEC",
+    "yearGroup": "Year 12-13",
+    "duration": "2 Years (Equivalent to 1 A-Level)",
+    "examBoard": "Pearson BTEC",
+    "gradingScale": "Pass, Merit, Distinction, Distinction*",
+    "entryRequirements": "5 GCSEs at grade 4 or higher, including English Language and Mathematics.",
+    "description": "An applied qualification focused on enterprise, corporate finance, digital marketing campaigns, and international business management. Features live case studies and partnerships with London business mentors.",
+    "teacher": {
+      "name": "Mrs. Karen Bradley",
+      "role": "Director of Business Enterprise",
+      "credentials": "MBA (London Business School), BA Business Management"
+    },
+    "fees": "Fully Funded (UK 16-19) / £9,000 per annum (International)",
+    "assessmentMethod": "Four units: Exploring Business, Developing a Marketing Campaign (Controlled Assessment), Personal and Business Finance (Exam), and Recruitment Selection.",
+    "keyTopics": [
+      "Corporate Environments & Strategic Planning",
+      "Marketing Campaigns & Social Consumer Analytics",
+      "Financial Statements, Cashflow & Break-Even Analysis",
+      "Human Resource Management & Workplace Legislation"
+    ],
+    "careerPaths": ["University Business Degrees", "Corporate Degree Apprenticeships", "Entrepreneurship", "Digital Marketing"],
+    "featured": false,
+    "badgeColor": "orange"
+  },
+  {
+    "id": "eng-lit-a-level",
+    "slug": "a-level-english-literature",
+    "title": "A-Level English Literature",
+    "department": "Humanities",
+    "level": "A-Level",
+    "yearGroup": "Year 12-13 (Sixth Form)",
+    "duration": "2 Years (Full-Time)",
+    "examBoard": "OCR (H472)",
+    "gradingScale": "A* - E",
+    "entryRequirements": "Minimum Grade 6 in GCSE English Literature and GCSE English Language.",
+    "description": "An inspiring critical examination of drama, poetry, and prose across five centuries. Students explore Shakespeare, Gothic fiction, romantic poetry, and contemporary voices with close textual analysis and seminar debate.",
+    "teacher": {
+      "name": "Dr. Beatrice Rowe",
+      "role": "Head of English & Drama",
+      "credentials": "MA English (King's College London), PhD Literary Studies (Exeter)"
+    },
+    "fees": "Fully Funded (UK 16-19) / £9,500 per annum (International)",
+    "assessmentMethod": "Two 2.5-hour written examinations (80%) and one 3,000-word comparative NEA essay (20%).",
+    "keyTopics": [
+      "Shakespeare & Pre-1900 Drama: Hamlet and The Duchess of Malfi",
+      "The Gothic Genre: Dracula & The Bloody Chamber",
+      "Post-1900 Poetry and Close Critical Reading",
+      "Literary Theory: Feminist, Marxist & Postcolonial Readings"
+    ],
+    "careerPaths": ["Publishing & Media", "Law", "Copywriting & Communications", "Academia & Teaching"],
+    "featured": false,
+    "badgeColor": "rose"
+  },
+  {
+    "id": "french-a-level",
+    "slug": "a-level-french",
+    "title": "A-Level French",
+    "department": "Languages",
+    "level": "A-Level",
+    "yearGroup": "Year 12-13 (Sixth Form)",
+    "duration": "2 Years (Full-Time)",
+    "examBoard": "AQA (7652)",
+    "gradingScale": "A* - E",
+    "entryRequirements": "Minimum Grade 7 in GCSE French and Grade 6 in GCSE English Language.",
+    "description": "Fosters bilingual fluency and deep cultural immersion into contemporary Francophone society, cinema, and literature. Features weekly one-to-one native speaker conversation coaching in our language lab.",
+    "teacher": {
+      "name": "Mme. Sylvie Dubois",
+      "role": "Head of Modern Foreign Languages",
+      "credentials": "Agrégation de Lettres Modernes (Sorbonne), MA Applied Linguistics"
+    },
+    "fees": "Fully Funded (UK 16-19) / £9,500 per annum (International)",
+    "assessmentMethod": "Paper 1: Listening, Reading and Translation (50%); Paper 2: Written Response to Film & Book (20%); Paper 3: Speaking Assessment & IRP (30%).",
+    "keyTopics": [
+      "Current Trends in French Society & Family Structures",
+      "Artistic Culture & Heritage in the Francophone World",
+      "Immigration, Integration & The Extreme Right in France",
+      "Literature Study (Camus - L'Étranger) and Film Study (La Haine)"
+    ],
+    "careerPaths": ["Diplomacy & Foreign Office", "International Commercial Law", "Translation & Localization", "Global Hospitality"],
+    "featured": false,
+    "badgeColor": "blue"
+  },
+  {
+    "id": "spanish-gcse",
+    "slug": "gcse-spanish",
+    "title": "GCSE Spanish (Higher Tier)",
+    "department": "Languages",
+    "level": "GCSE",
+    "yearGroup": "Year 10-11",
+    "duration": "2 Years",
+    "examBoard": "AQA (8698)",
+    "gradingScale": "9 - 1 (GCSE Standard)",
+    "entryRequirements": "Prior study of Spanish in Key Stage 3 with good foundation in grammar and vocabulary.",
+    "description": "Develops practical conversational competence, cultural understanding of Spain and Latin America, and solid grammatical foundation across listening, speaking, reading, and written expression.",
+    "teacher": {
+      "name": "Sr. Carlos Mendoza",
+      "role": "Senior Spanish Instructor",
+      "credentials": "Licenciado en Filología Hispánica (Universidad de Salamanca), QTS"
+    },
+    "fees": "Fully Funded (UK 14-16) / £8,200 per annum (International)",
+    "assessmentMethod": "Four equally weighted assessments (25% each): Listening, Speaking, Reading, and Writing.",
+    "keyTopics": [
+      "Identity and Culture: Youth, Festivals & Digital Technology",
+      "Local Area, Holiday and Travel across the Hispanic World",
+      "School, Future Studies, Employment & Global Issues",
+      "Grammatical Translation & Spontaneous Conversation"
+    ],
+    "careerPaths": ["A-Level Spanish", "International Business", "Tourism & Aviation", "Bilingual Public Service"],
+    "featured": false,
+    "badgeColor": "red"
+  },
+  {
+    "id": "fine-art-a-level",
+    "slug": "a-level-fine-art",
+    "title": "A-Level Fine Art",
+    "department": "Arts",
+    "level": "A-Level",
+    "yearGroup": "Year 12-13 (Sixth Form)",
+    "duration": "2 Years (Full-Time)",
+    "examBoard": "Edexcel (9FA0)",
+    "gradingScale": "A* - E",
+    "entryRequirements": "Minimum Grade 6 in GCSE Art & Design (or portfolio interview demonstrating technical drawing and media experimentation).",
+    "description": "An ambitious studio practice course covering drawing, oil painting, printmaking, sculpture, and mixed media installation. Students hold an end-of-year public exhibition in our Bloomsbury college gallery.",
+    "teacher": {
+      "name": "Ms. Rowena Blake",
+      "role": "Head of Fine Art & Visual Culture",
+      "credentials": "MFA Fine Art (Slade School of Fine Art, UCL), Royal Academy Schools"
+    },
+    "fees": "Fully Funded (UK 16-19) / £9,650 per annum (International)",
+    "assessmentMethod": "Component 1: Personal Investigation with 3,000-word contextual essay (60%); Component 2: Externally Set Assignment with 15-hour practical exam (40%).",
+    "keyTopics": [
+      "Observational Drawing, Oil and Acrylic Painting Mastery",
+      "Printmaking, Etching, Screen Printing & Digital Media",
+      "Contextual Art History and Critical Visual Analysis",
+      "Solo Portfolio Preparation & Degree Show Curation"
+    ],
+    "careerPaths": ["University of the Arts London (UAL)", "Architecture", "Fine Art", "Graphic Design & Creative Direction"],
+    "featured": true,
+    "badgeColor": "pink"
+  }
+]
