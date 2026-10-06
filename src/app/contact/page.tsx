@@ -5,6 +5,7 @@ import { CampusHub } from "@/components/CampusHub";
 import { 
   MapPin, 
   Mail, 
+  Phone,
   Clock, 
   Train, 
   Footprints,
@@ -41,7 +42,7 @@ export default function ContactPage() {
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-16">
         {/* Contact Info Cards Grid */}
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
           <div className="bg-white dark:bg-[#0E1626] border border-slate-200 dark:border-slate-800 rounded-xl p-6 shadow-sm">
             <div className="w-10 h-10 rounded-lg bg-amber-50 dark:bg-amber-950/40 flex items-center justify-center text-[#C59B27] mb-4">
               <MapPin className="w-5 h-5" />
@@ -58,6 +59,24 @@ export default function ContactPage() {
           </div>
 
           <div className="bg-white dark:bg-[#0E1626] border border-slate-200 dark:border-slate-800 rounded-xl p-6 shadow-sm">
+            <div className="w-10 h-10 rounded-lg bg-blue-50 dark:bg-blue-950/40 flex items-center justify-center text-blue-600 dark:text-blue-400 mb-4">
+              <Phone className="w-5 h-5" />
+            </div>
+            <h3 className="font-bold text-base text-[#0B1E36] dark:text-white mb-1">
+              Telephone Switchboard
+            </h3>
+            <p className="text-xs text-slate-600 dark:text-slate-300 leading-relaxed mb-2">
+              Admissions desk &amp; student enquiries:
+            </p>
+            <a
+              href="tel:+442079460888"
+              className="font-bold text-sm text-[#0B1E36] dark:text-[#D4AF37] hover:underline"
+            >
+              +44 (0)20 7946 0888
+            </a>
+          </div>
+
+          <div className="bg-white dark:bg-[#0E1626] border border-slate-200 dark:border-slate-800 rounded-xl p-6 shadow-sm">
             <div className="w-10 h-10 rounded-lg bg-emerald-50 dark:bg-emerald-950/40 flex items-center justify-center text-emerald-600 dark:text-emerald-400 mb-4">
               <Mail className="w-5 h-5" />
             </div>
@@ -65,7 +84,7 @@ export default function ContactPage() {
               Official College Email
             </h3>
             <p className="text-xs text-slate-600 dark:text-slate-300 leading-relaxed mb-2">
-              All admissions, academic, registry, and public enquiries are handled exclusively via email:
+              General enquiries &amp; application correspondence:
             </p>
             <a
               href="mailto:princecollege54@gmail.com"

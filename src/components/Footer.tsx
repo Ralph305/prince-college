@@ -6,10 +6,11 @@ import Image from "next/image";
 import { 
   MapPin, 
   Mail, 
+  Phone,
   ShieldCheck, 
   Award, 
   CheckCircle2, 
-  ArrowRight,
+  ArrowRight, 
   Send
 } from "lucide-react";
 
@@ -230,6 +231,12 @@ export function Footer() {
                 <Mail className="w-4 h-4 text-[#D4AF37] flex-shrink-0" />
                 <a href="mailto:princecollege54@gmail.com" className="text-slate-300 hover:text-white transition-colors">
                   princecollege54@gmail.com
+                </a>
+              </div>
+              <div className="flex items-center gap-2.5">
+                <Phone className="w-4 h-4 text-[#D4AF37] flex-shrink-0" />
+                <a href="tel:+442079460888" className="text-slate-300 hover:text-white transition-colors">
+                  +44 (0)20 7946 0888
                 </a>
               </div>
               <div className="pt-2">

@@ -128,24 +128,41 @@ export function ContactForm() {
         </div>
       </div>
 
-      <div>
-        <label htmlFor="contact-enquiryType" className="block text-xs font-bold text-slate-700 dark:text-slate-300 uppercase tracking-wider mb-1">
-          Department / Nature of Enquiry
-        </label>
-        <select
-          id="contact-enquiryType"
-          name="enquiryType"
-          value={formData.enquiryType}
-          onChange={handleChange}
-          className="w-full px-4 py-2.5 bg-slate-50 dark:bg-[#071424] border border-slate-200 dark:border-slate-700 rounded-lg text-sm text-slate-900 dark:text-white focus:outline-none focus:border-[#C59B27]"
-        >
-          <option value="General Admissions">Admissions & Applications</option>
-          <option value="Course Enquiries">Course & Curriculum Guidance</option>
-          <option value="Scholarships & Bursaries">Scholarships & Financial Aid</option>
-          <option value="Campus Visits">Open Days & Campus Tours</option>
-          <option value="International Students">International Visa & Tier 4</option>
-          <option value="Principal's Office">Principal's Office / General Registry</option>
-        </select>
+      <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+        <div>
+          <label htmlFor="contact-phone" className="block text-xs font-bold text-slate-700 dark:text-slate-300 uppercase tracking-wider mb-1">
+            Telephone / Mobile Number
+          </label>
+          <input
+            id="contact-phone"
+            type="tel"
+            name="phone"
+            value={formData.phone}
+            onChange={handleChange}
+            placeholder="e.g. +44 7700 900123"
+            className="w-full px-4 py-2.5 bg-slate-50 dark:bg-[#071424] border border-slate-200 dark:border-slate-700 rounded-lg text-sm text-slate-900 dark:text-white focus:outline-none focus:border-[#C59B27]"
+          />
+        </div>
+
+        <div>
+          <label htmlFor="contact-enquiryType" className="block text-xs font-bold text-slate-700 dark:text-slate-300 uppercase tracking-wider mb-1">
+            Department / Nature of Enquiry
+          </label>
+          <select
+            id="contact-enquiryType"
+            name="enquiryType"
+            value={formData.enquiryType}
+            onChange={handleChange}
+            className="w-full px-4 py-2.5 bg-slate-50 dark:bg-[#071424] border border-slate-200 dark:border-slate-700 rounded-lg text-sm text-slate-900 dark:text-white focus:outline-none focus:border-[#C59B27]"
+          >
+            <option value="General Admissions">Admissions & Applications</option>
+            <option value="Course Enquiries">Course & Curriculum Guidance</option>
+            <option value="Scholarships & Bursaries">Scholarships & Financial Aid</option>
+            <option value="Campus Visits">Open Days & Campus Tours</option>
+            <option value="International Students">International Visa & Tier 4</option>
+            <option value="Principal's Office">Principal's Office / General Registry</option>
+          </select>
+        </div>
       </div>
 
       <div>
